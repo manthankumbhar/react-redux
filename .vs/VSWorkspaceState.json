@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\CounterControl",
+    "\\src\\components\\CounterOutput",
+    "\\src\\containers",
+    "\\src\\containers\\Counter",
+    "\\src\\store"
+  ],
+  "SelectedNode": "\\src\\store\\reducer.js",
+  "PreviewInSolutionExplorer": false
+}
